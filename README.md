@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sahib Aliyev
 - 👀 I’m interested in Mobile development
 - 🌱 I’m currently learning Java, Kotlin, AndroidSDK
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahibmobdev@gmail.com
 
 <!---
