@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahib Aliyev
+- 👋 Hi, I’m Sahib
 - 👀 I’m interested in Mobile development
 - 🌱 I’m currently learning Java, Kotlin, AndroidSDK
 - 📫 How to reach me:
